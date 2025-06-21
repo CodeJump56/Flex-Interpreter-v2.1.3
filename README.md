@@ -8,15 +8,15 @@ coding.
 
 ## New Syntax
 
--TimerLpp
--DecTimer
--IncTimer
+- TimerLpp
+- DecTimer
+- IncTimer
 
 ## New Built-in Library
 
--AutoInput
--TXTtoNUM
--PopUPMes
+- AutoInput
+- TXTtoNUM
+- PopUPMes
 
 ## Example
 
